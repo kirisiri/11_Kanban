@@ -1,0 +1,32 @@
+* { 
+border: 1px solid blue; 
+}
+.board {
+	border: 2px solid black;
+	text-align: center;
+}
+.column-container {
+	border: 2px dotted pink;
+	text-align: center;
+}
+
+.column {
+	border: 2px dotted red;
+	display: inline-block;
+	width: 200px;
+	margin: 10px auto; 
+}
+.card {
+	border: 2px dotted green;
+	float: top;
+	width: 150px;
+	height: 150px;
+	margin: 5px auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
