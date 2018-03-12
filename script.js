@@ -99,8 +99,6 @@ $(function() {
 
 	/*var card1 = new Card('New task');
 	var card2 = new Card('Create kanban boards');
-
-
 	todoColumn.addCard(card1);
 	doingColumn.addCard(card2); */
 });
